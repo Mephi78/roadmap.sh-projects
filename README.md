@@ -10,6 +10,6 @@ Collection of my solutions to the guided roadmap.sh projects
 <!-- Links -->
 [r]: https://badgen.net/badge/r./goal/orange
 [001goal]: https://roadmap.sh/projects/single-page-cv
-[001result]: /1-Frontend/01-Single-Page-CV/
+[001result]: https://html-preview.github.io/?url=https://github.com/Mephi78/roadmap.sh-projects/blob/main/1-Frontend/01-Single-Page-CV/index.html
 [002goal]: https://roadmap.sh/projects/basic-html-website
 [002result]: /1-Frontend/
