@@ -1,8 +1,9 @@
 # roadmap.sh-projects
 Collection of my solutions to the guided roadmap.sh projects
 ## Frontend Projects
-[![r.][r]][001task] [Single-Page CV][001result]
-[![r.][r]][002task] [Basic HTML Website][002result]
+<sub>[![r.][r]][001goal]</sub> [Single-Page CV][001result] </br>
+<sub>[![r.][r]][002goal]</sub> [Basic HTML Website][002result] </br>
+
 
 [^ top](#roadmap.sh-projects)
 
