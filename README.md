@@ -34,13 +34,7 @@ Ctrl | Cmd + click links to open them in new tab.
 
 <p align="right"><a href="#top">top ^</a></p>
 
-<!-- Disclaimer -->
 ---
-<div align="center">
-
-[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
-
-</div>
 
 <!-- Badges -->
 [f]: https://img.shields.io/gitea/forks/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&style=flat&color=lightseagreen
