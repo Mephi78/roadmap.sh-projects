@@ -53,12 +53,6 @@ This work is distributed under the [MIT](LICENSE) license.
 
 
 <!-- Badges -->
-[c]: https://badgen.net/github/commits/Mephi78/roadmap.sh-projects
-[l]: https://badgen.net/github/last-commit/Mephi78/roadmap.sh-projects
-[w]: https://badgen.net/badge/work/in%20progress/yellow
-[g]: https://badgen.net/badge/r./goal/orange
-[v]: https://badgen.net/badge/r./vote/green
-
 [f]: https://img.shields.io/gitea/forks/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&style=flat&color=lightseagreen&labelColor=%230F639C
 [l]: https://img.shields.io/gitea/last-commit/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&labelColor=%230F639C
 [o]: https://img.shields.io/gitea/issues/open/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&labelColor=%230F639C
@@ -67,6 +61,9 @@ This work is distributed under the [MIT](LICENSE) license.
 [s]: https://img.shields.io/gitea/stars/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&style=flat&color=goldenrod&labelColor=%230F639C
 [x]: https://img.shields.io/badge/status-experimental-orange?labelColor=%230F639C
 [p]: https://img.shields.io/gitea/pull-requests/all/mephi/roadmap.sh-projects?gitea_url=https%3A%2F%2Fcodeberg.org&label=PRs&labelColor=%230F639C
+
+[g]: https://badgen.net/badge/r./goal/orange
+[v]: https://badgen.net/badge/r./vote/green
 
 <!-- project links -->
 [001goal]: https://roadmap.sh/projects/single-page-cv
